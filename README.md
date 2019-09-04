@@ -10,6 +10,6 @@ npm cache clear --force
 
 npm install
 
-generate keys: node gen_key.js
+step1: generate keys: node gen_key.js
 
-start server: node server.js
+step2: start server: node server.js
